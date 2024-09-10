@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Metas -->
-    <title>NOOR ABIYAD</title>
+    <title>Bvoc-Farook College(Autonomous)</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -146,6 +146,7 @@ The interests of our customers are always top priority for us, so we hope you wi
                 
             </div>
         </div>
+        
     </div> -->
     <!-- End Categories -->
 	

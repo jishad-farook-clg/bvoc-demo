@@ -14,7 +14,7 @@
                 </div>
             </li>
             <li class="text-center">
-                <img src="images/banner-02.jpg" alt="">
+                <img src="images/banner-02.jpeg" alt="">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -26,7 +26,7 @@
                 </div>
             </li>
             <li class="text-center">
-                <img src="images/banner-03.jpeg" alt="">
+                <img src="images/banner-03.jpg" alt="">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
