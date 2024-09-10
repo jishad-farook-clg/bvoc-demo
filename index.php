@@ -59,7 +59,7 @@
         <div class="row">
             <!-- Text Column (on the left) -->
             <div class="col-lg-6">
-                <h2 class="noo-sh-title-top">Department of <span>Auto Mobile</span></h2>
+                <h2 class="noo-sh-title-top">Department of <span>Automobile</span></h2>
                 <p>
                 The Department of Vocational Studies (Automobile) offers an undergraduate programme, Bachelor of Vocation (B.Voc) in AUTOMOBILE- AUTO ELECTRICALS & ELECTRONICS. B.Voc was introduced by the UGC to ensure that students have adequate skills and knowledge that could make them ready at each exit point of the programme. This programme is created with the aim of imparting industry-specific skills to the students. These programmes are crafted in such a way that the students acquire skills, which will lead them to employment in the Automobile sector. </p>
             </div>
@@ -73,6 +73,42 @@
     </div>
 </section>
 
+
+<div class="exam-container">
+    <h1 class="exam-head">EXAMS QUALIFIED</h1> 
+    
+    <div class="exam-list">
+        <div class="exam">
+       <h1 class="exams-count">
+    22+
+       </h1>     
+       <h2  class="exams-heading">
+       CUSAT
+       </h2>
+          
+        </div>
+
+        <div class="exam">
+        <h1 class="exams-count">
+    36+
+       </h1>     
+       <h2  class="exams-heading">
+       CAT
+       </h2>
+         
+        </div>
+
+        <div class="exam">
+        <h1 class="exams-count">
+    3+
+       </h1>     
+       <h2  class="exams-heading">
+       VIT
+       </h2>
+        </div>
+    </div>
+
+</div>
             <!-- <div class="row my-5">
                 <div class="col-sm-6 col-lg-6">
                     <div class="service-block-inner">
