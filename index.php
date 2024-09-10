@@ -75,7 +75,7 @@
 
 
 <div class="exam-container">
-    <h1 class="exam-head">EXAMS QUALIFIED</h1> 
+    <h1 class="headings">EXAMS QUALIFIED</h1> 
     
     <div class="exam-list">
         <div class="exam">
@@ -109,7 +109,10 @@
     </div>
 
 </div>
-            <!-- <div class="row my-5">
+<div class="exam-container">
+<h1 class="headings">INTERNSHIPS</h1> 
+
+</div>            <!-- <div class="row my-5">
                 <div class="col-sm-6 col-lg-6">
                     <div class="service-block-inner">
                         <h3>Vision</h3>
