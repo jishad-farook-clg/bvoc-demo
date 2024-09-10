@@ -38,7 +38,7 @@
 <body>
 
 
-
+<?php include 'include/header.php'; ?>
 <?php include 'include/slider.php'; ?>
  
   <!-- Start About Page  -->

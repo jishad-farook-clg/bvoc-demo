@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Metas -->
-    <title>NOOR ABIYAD</title>
+    <title>About us</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -79,14 +79,13 @@ The interests of our customers are always top priority for us, so we hope you wi
                 <div class="col-sm-6 col-lg-6">
                     <div class="service-block-inner">
                         <h3>Vision</h3>
-                        <p>To eliminate non-biodegradable products and to reduce carbon footprint in the world.Increase the brand value of our client’s products by providing top-quality packaging product supplies.</p>
+                        <p> To mould competent and well-developed persons who can take up the challenges of the future on behalf of the community, the society, the nation and the world.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-6">
                     <div class="service-block-inner">
                         <h3>Mission</h3>
-                        <p>To provide top-of-the-line packaging products supplies with exceptional customer service.
-                        To invest in the latest technology machinery for faster delivery and economical pricing.</p>
+                        <p>To provide all round development and training to generations of men and women who are competent to carry out various functions of nation-building, to equip them with value-based education and training, to empower them with positive qualities and qualifications, to promote research activities and social outreach activities, to provide leadership to persons and institutions for community-empowerment and to ensure excellence in education and related activities for a better nation and world.</p>
                     </div>
                 </div>
                
