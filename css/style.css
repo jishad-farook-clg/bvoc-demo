@@ -808,6 +808,12 @@
      text-transform: uppercase;
      padding: 10px 20px;
 }
+
+.about-img-size {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
 /*------------------------------------------------------------------ Categories Shop -------------------------------------------------------------------*/
  .categories-shop{
      padding: 70px 0px;

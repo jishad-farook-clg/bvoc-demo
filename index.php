@@ -46,39 +46,27 @@
         <div class="container">
             <div class="row">
 				<div class="col-lg-6">
-                    <div class="banner-frame"> <img class="img-fluid" src="images/about-img.jpg" alt="" />
+                    <div class="banner-frame"> <img class="img-fluid about-img-size" src="images/dep-sd.jpg" alt="" />
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <h2 class="noo-sh-title-top">Department of  <span>Software Development</span></h2>
-                    <p>We aim to offer our customers a variety of packing and packaging materials. We’ve come a long way, so we know exactly which direction to take when supplying you with high quality yet budget-friendly products. We offer all of this while providing excellent customer service and friendly support.
-
-We always keep an eye on the latest trends in packing  material industry and put our customers’ wishes first. That is why we have satisfied customers all over the region and are thrilled to be a part of the packing material industry.
-
-The interests of our customers are always top priority for us, so we hope you will enjoy our products as much as we enjoy making them available to you.</p>
-					
+                    <p>The department of Vocational studies (Software Development) offers an undergraduate programme, Bachelor of Vocation (B.Voc) IN SOFTWARE DEVELOPMENT which is of 3-year duration. This programme improves the skills of the candidates by concentrating on theoretical knowledge as well as practical training. The main aim of this course is to equip students with skills related to Computer Science and Software Development.		
                 </div>
             </div>
-            <section class="about-box-main" style="padding-bottom:10px !important;">
+            <section class="about-box-main" style="padding-bottom:50px !important;">
     <div class="container">
         <div class="row">
             <!-- Text Column (on the left) -->
             <div class="col-lg-6">
                 <h2 class="noo-sh-title-top">Department of <span>Auto Mobile</span></h2>
                 <p>
-                    We aim to offer our customers a variety of packing and packaging materials. We’ve come a long way, so we know exactly which direction to take when supplying you with high-quality yet budget-friendly products. We offer all of this while providing excellent customer service and friendly support.
-                </p>
-                <p>
-                    We always keep an eye on the latest trends in the packing material industry and put our customers’ wishes first. That is why we have satisfied customers all over the region and are thrilled to be a part of the packing material industry.
-                </p>
-                <p>
-                    The interests of our customers are always a top priority for us, so we hope you will enjoy our products as much as we enjoy making them available to you.
-                </p>
+                The Department of Vocational Studies (Automobile) offers an undergraduate programme, Bachelor of Vocation (B.Voc) in AUTOMOBILE- AUTO ELECTRICALS & ELECTRONICS. B.Voc was introduced by the UGC to ensure that students have adequate skills and knowledge that could make them ready at each exit point of the programme. This programme is created with the aim of imparting industry-specific skills to the students. These programmes are crafted in such a way that the students acquire skills, which will lead them to employment in the Automobile sector. </p>
             </div>
             <!-- Image Column (on the right) -->
             <div class="col-lg-6">
                 <div class="banner-frame">
-                    <img class="img-fluid" src="images/about-img.jpg" alt="Image representing the Department of Auto Mobile" />
+                    <img class="img-fluid about-img-size" src="images/dep-auto.jpeg" alt="Image representing the Department of Auto Mobile" />
                 </div>
             </div>
         </div>

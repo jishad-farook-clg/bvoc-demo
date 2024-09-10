@@ -5,35 +5,41 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-12 col-sm-12">
                         <div class="footer-widget">
-                            <h4>About BVOC</h4>
-                            <p>We aim to offer our customers a variety of packing and packaging materials. We’ve come a long way, so we know exactly which direction to take when supplying you with high quality yet budget-friendly products. </p> 
+                            <h4>Departments</h4>
+                       <ul>
+                        <li>
+                         <p>
+                            Department of Software development
+                         </p>   
+                        </li>
+                        <li>
+                            <p>
+                          Department of Automobile  
+                            </p>
+                 
+                        </li>
+                       </ul>
 						
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12">
-                        <div class="footer-link">
-                            <h4>Information</h4>
-                            <ul>
-                                <li><a href="./">Home</a></li>
-                                <li><a href="about.php">About Us</a></li>
-                         
-                               
-                                <li><a href="contact.php">Contact Us</a></li>
-                            </ul>
+                        <div class="footer-widget">
+                            <h4>Address</h4>
+                            <p>
+                            Farook college (Autonomous),<br>P.O  Farook College <br> PIN: 673 632,  <br> Kozhikode Dist.Kerala, India</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12">
                         <div class="footer-link-contact">
-                            <h4>Contact Us</h4>
+                            <h4>Contact</h4>
                             <ul>
+                               
                                 <li>
-                                    <p><i class="fas fa-map-marker-alt"></i>Room No. #203, M Studio Building, <br>Al Qiadha Dubai, UAE</p>
+                                <p><i class="fas fa-phone-square"></i><a href="tel:+914952440660">+91 495 2440660</a></p>
+                                <p><a href="tel:+914952440661">+91 495 2440661</a></p>
                                 </li>
                                 <li>
-                                <p><i class="fas fa-phone-square"></i>Phone: <a href="tel:+971555173900">+971555173900</a></p>
-                                </li>
-                                <li>
-                                <p><i class="fas fa-envelope"></i>Email: <a href="mailto:Jjamshi503@gmail.com">Jjamshi503@gmail.com</a></p>
+                                <p><i class="fas fa-envelope"></i> <a href="mailto:mail@farookcollege.ac.in">mail@farookcollege.ac.in</a></p>
                                 </li>
                             </ul>
                         </div>
@@ -42,9 +48,13 @@
             </div>
         </div>
     </footer>
+  
+
+
+
     <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
      <!-- Start copyright  -->
      <div class="footer-copyright">
-        <p class="footer-company">All Rights Reserved. &copy; 2024 <a href="#">Noor Abiyad</a></p>
+        <p class="footer-company">All Rights Reserved. &copy; 2024 <a href="#">Bvoc-department of farook college</a></p>
     </div>
     <!-- End copyright  -->
